@@ -1,0 +1,9 @@
+[
+  {"type": "FIO", "value": "Смирнова Алексея Викторовича"},
+  {"type": "PASSPORT", "value": "45 18 № 734521"},
+  {"type": "ADDRESS", "value": "г. Москва, ул. Профсоюзная, д. 84, кв. 112"},
+  {"type": "PHONE", "value": "+7 (916) 245-37-81"},
+  {"type": "EMAIL", "value": "a.smirnov.test@mail.ru"},
+  {"type": "FIO", "value": "Смирнов А.В."},
+  {"type": "CARD", "value": "2200 2917 0342 3664"}
+]

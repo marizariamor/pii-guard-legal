@@ -1,0 +1,9 @@
+[
+  {"type": "FIO", "value": "Анна Сергеевна Лебедева"},
+  {"type": "PHONE", "value": "+7 999 120-44-56"},
+  {"type": "PHONE", "value": "89991204400"},
+  {"type": "EMAIL", "value": "lebedeva.anna.test@gmail.com"},
+  {"type": "PASSPORT", "value": "40 15 номер 662180"},
+  {"type": "SNILS", "value": "797-114-710 32"},
+  {"type": "FIO", "value": "Петровым В.А."}
+]

@@ -1,0 +1,11 @@
+[
+  {"type": "FIO", "value": "Белову Игорю Николаевичу"},
+  {"type": "FIO", "value": "Егоровой Натальи Андреевны"},
+  {"type": "ACCOUNT", "value": "40817810099910004312"},
+  {"type": "INN", "value": "786579754365"},
+  {"type": "SNILS", "value": "601-895-559 06"},
+  {"type": "ADDRESS", "value": "г. Санкт-Петербург, пр-т Энгельса, д. 120, корп. 2, кв. 48"},
+  {"type": "EMAIL", "value": "natalia.egorova.test@yandex.ru"},
+  {"type": "PHONE", "value": "+7 921 330-15-77"},
+  {"type": "FIO", "value": "Н.А. Егорова"}
+]
